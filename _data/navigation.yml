@@ -1,9 +1,10 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Overview"
+    url: /overview/
+  - title: "Status"
+    url: /status/
   - title: "About"
     url: /about/
+  - title: "GitHub"
+    icon: "fab fa-fw fa-github"
+    url: "https://github.com/UCLH-Foundry/FlowEHR"
