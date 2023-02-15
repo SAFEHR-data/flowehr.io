@@ -29,7 +29,7 @@ feature_row:
     btn_label: "Find out about our next steps"
     excerpt: "We have spent the last few years building real-time technology & data infrastructure for research & innovation in a hospital setting."
   - title: "Our Team"
-    excerpt: "Our team of software engineers, data scientists,  clinicians, academic researchers and operational staff is based in London at one of the largest NHS trusts in the UK."
+    excerpt: "Our team of software engineers, data scientists,  clinicians, academic researchers and operational staff is based in London at one of the busiest NHS trusts in the UK."
     url: "/about/"
     btn_label: "Read about our mission"
 contact:
