@@ -1,6 +1,7 @@
 ---
 permalink: /status/
 title: "Status"
+
 ---
 
 We have several years worth of hard-won experience building technology infrastructure for research & innovation and 
@@ -26,7 +27,7 @@ We are currently in the process of migrating our ICU demand prediction applicati
 we aim to complete in Q2 of 2023.
 
 We are also developing a synthetic healthcare dataset with the help of [The Alan Turing Institute](https://www.turing.ac.uk/) which 
-would grow the pool from which we can source ideas. We aim to provide limited access to this dataset to external users by Q3 2023.
+would grow the pool from which we source ideas. We aim to provide limited access to this dataset to external users by Q3 2023.
 
 Our plan is to have migrated all existing applications and models by Q4 2023 and to have governance, compliance & risk
 templates in place which will accelerate our ability to trial new solutions.
