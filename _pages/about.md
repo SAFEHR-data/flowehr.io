@@ -15,5 +15,5 @@ at Microsoft.
 **Our mission is to**
 - Enable iterative, robust & sustainable development & deployment of cutting-edge digital solutions _inside_ NHS organisations
 - Provide an open-source technology & governance platform which allows teams to work higher up the stack where they can focus on improving patient outcomes and health system efficiency
-- Offer a well-trodden happy path to NHS organisations which can be adapted to the needs of their digital transformation journey
+- Offer a well-trodden happy path to NHS organisations which can be adapted to their position on the digital transformation journey
 - Contribute to the diverse community of innovators & researchers working on crossing the healthcare AI chasm  

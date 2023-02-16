@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: "FlowEHR"
 layout: splash
 header:
   overlay_color: "#000"
