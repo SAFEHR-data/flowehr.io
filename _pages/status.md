@@ -3,6 +3,30 @@ permalink: /status/
 title: "Status"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+We have several years worth of hard-won experience building technology infrastructure for research & innovation and 
+integrating with a variety of operational systems inside a busy multi-site London NHS trust.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Starting in 2018, we built a real-time HL7 processing pipeline which surfaces the electronic patient record alongside data from
+diagnostic systems in a relational database at a latency of less than ~20sec.  
+This data store allowed us to rapidly build & deploy several real-time applications and dashboards in response to the pandemic to assist
+in quality improvement, workforce communication, live resource monitoring, ICU clinical management and NHS data submissions.
+
+In 2021 we started training predictive algorithms & ML models on structured electronic patient record data and 
+integrating inference capabilities into some of our applications.  
+In doing so we noticed several common technology and governance patterns and extracted these into a proof-of-concept FlowEHR platform running 
+in our on-premises virtualised environment.  
+We currently have models predicting ICU resource demand, in-patient admission from the emergency department, general ward patient deterioration
+and post-anesthesia care requirements as well as prioritising antimicrobial resistance reviews, all running against live data on our proof-of-concept platform.
+
+Towards the end of 2022 we expanded into supporting DICOM imaging data and free-text radiology reports to support a project which aims to
+help clinicians identify misplaced nasogastric tubes.  
+
+In early 2023 started the process of re-situating our proof-of-concept platform in the public cloud.  
+We are currently in the process of migrating an in
+
+
+- Milestones
+- all algorithms
+- synthetic data
+- governance template
+- qms

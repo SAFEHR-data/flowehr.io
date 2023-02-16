@@ -16,12 +16,10 @@ We are open-source first & foremost.
  <img id="diagram" src="/assets/images/FlowEHR-diagram.png" alt="FlowEHR"  />
 </a>
 
-Technical implementation details are available on the public [FlowEHR GitHub repo](https://github.com/UCLH-Foundry/FlowEHR).
+Technical implementation details are available in the public [FlowEHR GitHub repository](https://github.com/UCLH-Foundry/FlowEHR).
 
-Our experience shows that successfully utilising healthcare data demands more than a technical solution.  
-FlowEHR is a system composed of _people_, _processes_ and _technology_.
-
-Please [get in touch](/contact/) if you're interested in discussing how to plant a FlowEHR for your organisation.
+Our experience shows that successfully utilising healthcare data demands more than a technical solution and
+FlowEHR is composed of _people_, _processes_ and _technology_.
 
 ----
 

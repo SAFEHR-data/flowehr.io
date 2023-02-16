@@ -13,8 +13,7 @@ title: "Contact"
   <div class="form-group row">
     <label for="inputEmail" class="col-sm-2 col-form-label">Email</label>
     <div class="input-group col-sm-10">
-      <div class="input-group-prepend"><i class="input-group-text fa fa-envelope"></i></div>
-      <input type="email" class="form-control" id="inputEmail" name="Email" placeholder="Email">
+      <input type="email" class="form-control" id="inputEmail" name="Email" placeholder="Please enter your email">
     </div>
   </div>
   <div class="form-group row">
