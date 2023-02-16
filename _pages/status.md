@@ -8,7 +8,7 @@ integrating with a variety of operational systems inside a busy multi-site Londo
 
 Starting in 2018, we built a real-time HL7 processing pipeline which surfaces the electronic patient record alongside data from
 diagnostic systems in a relational database at a latency of less than ~20sec.  
-This data store allowed us to rapidly build & deploy several real-time applications and dashboards in response to the pandemic to assist
+This datastore allowed us to rapidly build & deploy several real-time applications and dashboards in response to the pandemic to assist
 in quality improvement, workforce communication, live resource monitoring, ICU clinical management and NHS data submissions.
 
 In 2021 we started training predictive algorithms & ML models on structured electronic patient record data and 
@@ -21,12 +21,12 @@ and post-anesthesia care requirements as well as prioritising antimicrobial resi
 Towards the end of 2022 we expanded into supporting DICOM imaging data and free-text radiology reports to support a project which aims to
 help clinicians identify misplaced nasogastric tubes.  
 
-In early 2023 started the process of re-situating our proof-of-concept platform in the public cloud.  
-We are currently in the process of migrating an in
+In early 2023 we started the process of productionising our proof-of-concept platform and replanting FlowEHR in the public cloud.  
+We are currently in the process of migrating our ICU demand prediction application and models to our cloud-native implementation which
+we aim to complete in Q2 of 2023.
 
+We are also developing a synthetic healthcare dataset with the help of [The Alan Turing Institute](https://www.turing.ac.uk/) which 
+would grow the pool from which we can source ideas. We aim to provide limited access to this dataset to external users by Q3 2023.
 
-- Milestones
-- all algorithms
-- synthetic data
-- governance template
-- qms
+Our plan is to have migrated all existing applications and models by Q4 2023 and to have governance, compliance & risk
+templates in place which will accelerate our ability to trial new solutions.
