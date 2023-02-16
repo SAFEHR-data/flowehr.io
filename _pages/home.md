@@ -35,7 +35,8 @@ feature_row:
 contact:
 - excerpt: "## Join Us
 
-Our ambition is to plant FlowEHRs across the NHS and we’re eager to hear from Integrated Care Systems, trusts, Academic Health Science Networks or other NHS organisations who want to unlock the transformative power of their data.  
+Our ambition is to plant FlowEHRs across the NHS.<br /> 
+We are eager to hear from trusts, Integrated Care Systems, Academic Health Science Networks or other NHS organisations who want to unlock the transformative power of their data.  
 <br />
 <small>Please [get in touch](/contact/).</small>
 "

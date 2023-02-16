@@ -7,11 +7,27 @@ toc_icon: "pencil-ruler"
 toc_sticky: true
 ---
 
+# High Level Design
+
+Our tech stack is opinionated but modular and flexible enough to accommodate multiple use cases and adapt to local needs.  
+We are open-source first & foremost.
+
+<a href="/assets/images/FlowEHR-diagram.png">
+ <img id="diagram" src="/assets/images/FlowEHR-diagram.png" alt="FlowEHR"  />
+</a>
+
+Technical implementation details are available on the public [FlowEHR GitHub repo](https://github.com/UCLH-Foundry/FlowEHR).
+
+Our experience shows that successfully utilising healthcare data demands more than a technical solution.  
+FlowEHR is a system composed of _people_, _processes_ and _technology_.
+
+Please [get in touch](/contact/) if you're interested in discussing how to plant a FlowEHR for your organisation.
+
+----
+
 # Non-Functional Requirements
 
-FlowEHR is best thought of as a _socio-technical_ system composed of _People_, _Processes_ and _Technology_.
-
-Our priority architectural characteristics are:
+Our priorities are:
 
 ## 1. Safety
 We have aligned with the [_5 Safes Framework_](https://en.wikipedia.org/wiki/Five_safes){:target='_blank'}
@@ -38,9 +54,11 @@ However, most NHS organisations have limited DevOps & DataOps resources and so w
 like Infrastructure-as-Code and continuous delivery.
 
 
+----
+
 # Functional Requirements 
 
-We have identified **6 User Personas** to help define the requirements.
+We have identified 6 user personas to help define the requirements.
 
 These have been informed by our direct experience over the past several years, as well as in-depth discussions, seminars & workshops with several regulatory bodies and the wider healthcare, research & technology community.
 
@@ -53,12 +71,12 @@ so that _we can rapidly create apps which generate clinical and operational valu
 ## 2. The Imaging Researchers
 As a _medical imaging research team at an NHS academic medical centre_,  
 we want _a safe, user-friendly environment with industry standard tools & applications and access to pseudonymised, 
-linked DICOM and routinely collected electronic healthcare data_, 
+linked DICOM and routinely collected electronic healthcare data_,   
 so that _we can iteratively develop and evaluate cutting-edge multi-modal computer vision models for improving health outcomes_.
 
 ## 3. The Informatics Researchers
 As a _health informatics research team at an NHS academic medical centre_,  
-we want _a safe, user-friendly environment with industry standard tooling and access to retrospective, pseudonymised, 
+we want _a safe, user-friendly environment with industry standard tooling and access to retrospective, de-identified, 
 routinely collected healthcare data_,  
 so that _we can tackle questions of regional population health, epidemiology, long-term health outcome comparisons or health inequality_.
 
@@ -78,13 +96,7 @@ we want _an accredited environment on professionally managed infrastructure with
 so that _we can deploy and manage approved algorithms inside our organisation which improve patient care and operational efficiency_.
 
 
-# High-Level Design
+----
 
 
----
-- High-level overview diagram
-- FlowEHR & petals
-- How we’re doing it
-- Opinionated but flexible for organisations to adapt it to their needs
-- OSS first, modular
 
