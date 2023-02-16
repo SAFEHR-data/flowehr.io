@@ -9,8 +9,7 @@ toc_sticky: true
 
 # High Level Design
 
-Our tech stack is opinionated but modular and flexible enough to accommodate multiple use cases and adapt to local needs.  
-We are open-source first & foremost.
+Our open-source tech stack is opinionated but modular and flexible enough to accommodate multiple use cases and adapt to local needs.  
 
 <a href="/assets/images/FlowEHR-diagram.png">
  <img id="diagram" src="/assets/images/FlowEHR-diagram.png" alt="FlowEHR"  />
@@ -28,7 +27,7 @@ FlowEHR is composed of _people_, _processes_ and _technology_.
 Our priorities are:
 
 ## 1. Safety
-We have aligned with the [_5 Safes Framework_](https://en.wikipedia.org/wiki/Five_safes){:target='_blank'}
+We have aligned with the [5 Safes Framework](https://en.wikipedia.org/wiki/Five_safes){:target='_blank'}
 - Safe setting
 - Safe people
 - Safe data

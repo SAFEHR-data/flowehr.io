@@ -14,6 +14,11 @@ bundle install
 bundle exec jekyll serve --livereload
 ```
 
+## Jekyll theme
+https://mmistakes.github.io/minimal-mistakes/
+https://mmistakes.github.io/minimal-mistakes/docs/configuration/
+https://mmistakes.github.io/minimal-mistakes/docs/overriding-theme-defaults/
+https://github.com/mmistakes/minimal-mistakes/blob/master/_sass/minimal-mistakes/_variables.scss
 ---
 _old_
 
