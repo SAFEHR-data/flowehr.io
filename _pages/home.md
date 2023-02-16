@@ -7,14 +7,14 @@ header:
   overlay_filter: "0.1"
   overlay_image: /assets/images/splash.jpg
 excerpt: "A secure, cloud-native  <br />
-development & deployment platform  <br />
+development & deployment <mark class='underlined'>platform</mark>  <br />
 for research & innovation  <br />
-in digital healthcare.
+in <mark class='underlined'>digital healthcare</mark>.
 "
 intro:
-- excerpt: "# Code to Bedside  
+- excerpt: "# Code to Bedside
 
-<p>FlowEHR is an open-source platform for iterative, safe & reproducible development & deployment of data science solutions inside the NHS.</p>
+<p>FlowEHR is an <mark class='underlined'>open-source</mark> platform for iterative, safe & reproducible development & deployment of data science solutions <mark class='underlined'>inside the NHS</mark>.</p>
 
 <p>FlowEHR enables multidisciplinary teams to work higher up the stack and focus on improving patient outcomes & health system efficiency.</p>
 "

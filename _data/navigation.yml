@@ -7,6 +7,5 @@ main:
     url: /about/
   - title: "Contact"
     url: /contact/
-  - title: "GitHub"
-    icon: "fab fa-fw fa-github"
+  - title: "<i class='fab fa-github'></i>"
     url: "https://github.com/UCLH-Foundry/FlowEHR"

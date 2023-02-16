@@ -42,19 +42,13 @@ include:
   - _pages
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "FlowEHR"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/UCLH-Foundry/FlowEHR"
 
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/UCLH-Foundry/FlowEHR"
+
 
 defaults:
   - scope:
@@ -64,8 +58,7 @@ defaults:
       layout: single
 
 # Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
+# The following items will not be processed
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -78,16 +71,8 @@ exclude:
 
 # Plugins (previously gems:)
 plugins:
-#  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-
-#category_archive:
-#  type: liquid
-#  path: /categories/
-#tag_archive:
-#  type: liquid
-#  path: /tags/

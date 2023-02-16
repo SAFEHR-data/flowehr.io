@@ -1,0 +1,12 @@
+<div class="page__footer-follow">
+    <ul class="social-icons">
+        {% if site.data.ui-text[site.locale].follow_label %}
+        <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+        {% endif %}
+
+        <li><a href="https://github.com/UCLH-Foundry/FlowEHR" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true" style="color: white;"></i> GitHub</a></li>
+
+    </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; {{ site.name | default: site.title }} </div>
