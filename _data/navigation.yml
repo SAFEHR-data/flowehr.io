@@ -8,4 +8,4 @@ main:
   - title: "Contact"
     url: /contact/
   - title: "<i class='fab fa-github'></i>"
-    url: "https://github.com/UCLH-Foundry/FlowEHR"
+    url: "https://github.com/SAFEHR-data/FlowEHR"

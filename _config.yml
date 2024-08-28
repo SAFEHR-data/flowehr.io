@@ -22,8 +22,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 logo: "/assets/images/hibiscus_apple_emoji.png"
 masthead_title: "FlowEHR"
 
-github_username: "UCLH-Foundry"
-repository: "UCLH-Foundry/flowehr.io"
+github_username: "SAFEHR-data"
+repository: "SAFEHR-data/flowehr.io"
 
 minimal_mistakes_skin: "air"
 search: false
@@ -46,7 +46,7 @@ author:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/UCLH-Foundry/FlowEHR"
+      url: "https://github.com/SAFEHR-data/FlowEHR"
 
 defaults:
   - scope:
