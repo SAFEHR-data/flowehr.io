@@ -15,7 +15,7 @@ Our open-source tech stack is opinionated but modular and flexible enough to acc
  <img id="diagram" src="/assets/images/FlowEHR-diagram.png" alt="FlowEHR"  />
 </a>
 
-Technical implementation details are available in the public [FlowEHR GitHub repository](https://github.com/UCLH-Foundry/FlowEHR).
+Technical implementation details are available in the public [FlowEHR GitHub repository](https://github.com/SAFEHR-data/FlowEHR).
 
 Our experience shows that successfully utilising healthcare data demands more than a technical solution and
 FlowEHR is composed of _people_, _processes_ and _technology_.
